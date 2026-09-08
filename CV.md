@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "News"
-permalink: /news/
+title: "CV"
+permalink: /cv/
 ---
 
 <section class="section" markdown="1">
