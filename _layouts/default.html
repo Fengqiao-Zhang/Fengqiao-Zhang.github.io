@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <script>
+    (function(){var t=localStorage.getItem('theme');if(t)document.documentElement.classList.add(t);})();
+  </script>
+  <meta name="theme-color" content="#262220" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0f0e12" media="(prefers-color-scheme: dark)" />
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}" />
+  <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" />
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}" />
+</head>
+<body>
+  {% include nav.html %}
+
+  {% if page.url == "/" %}
+  <div class="container">
+    {% include sidebar.html %}
+
+    <main class="main">
+      {{ content }}
+    </main>
+  </div>
+  {% else %}
+  <div class="container-single">
+    <main class="main">
+      {{ content }}
+    </main>
+  </div>
+  {% endif %}
+
+  {% include footer.html %}
+  <script>
+    (function(){
+      var html = document.documentElement;
+      var btn = document.getElementById('theme-toggle');
+      function isDark(){
+        if (html.classList.contains('dark')) return true;
+        if (html.classList.contains('light')) return false;
+        return window.matchMedia('(prefers-color-scheme: dark)').matches;
+      }
+      function updateIcon(){ btn.textContent = isDark() ? '☀' : '☽'; }
+      btn.addEventListener('click', function(){
+        if (isDark()){
+          html.classList.remove('dark'); html.classList.add('light');
+          localStorage.setItem('theme','light');
+        } else {
+          html.classList.remove('light'); html.classList.add('dark');
+          localStorage.setItem('theme','dark');
+        }
+        updateIcon();
+      });
+      updateIcon();
+    })();
+  </script>
+</body>
+</html>
