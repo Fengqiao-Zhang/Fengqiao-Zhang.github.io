@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Scalable monitoring of localized corrosion in concrete bridges 
 - 2027-2031
-- Funding Source: Dutch Research Council (NWO) VENI(https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-veni/veni-2025)
+- Funding Source: [Dutch Research Council (NWO) VENI](https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-veni/veni-2025)
 - With concrete responsible for 4–8% of global carbon emissions, extending the service life of existing infrastructure, rather than building new, is a key strategy. To do this safely, we need reliable safety assessments of ageing structures. This is difficult because deterioration such as localized corrosion develops randomly in space and can have serious safety consequences. This research will develop a scalable, adaptive, and reliable monitoring approach that reveals the spatial pattern of such deterioration and its structural safety relevance, enabling safe extension of structural service life.
 </section>
 
