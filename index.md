@@ -16,10 +16,10 @@ I am looking for motivated **MSc students**, **PhD students** and **postdoctoral
 <section class="section" markdown="1">
 
 ## What's new
-
+{% assign award_news = site.data.awards | sort: "date" | reverse | slice: 0, 5 %}
 {% assign pub_news = site.data.publications | sort: "date" | reverse | slice: 0, 5 %}
 {% assign serv_news = site.data.service | sort: "date" | reverse | slice: 0, 5 %}
-{% assign news = pub_news | concat: serv_news | sort: "date" | reverse | slice: 0, 5 %}
+{% assign news = award_news | concat: serv_news | concat: pub_news | sort: "date" | reverse | slice: 0, 5 %}
 {% for item in news %}
 {%- if item.title -%}
 - **{{ item.date | replace: "-", "." }}** {% if item.venue == "arxiv" %}[arxiv]{% else %}[**{{ item.venue }}{% if item.award %} — {{ item.award }}{% endif %}**]{% endif %}{% if item.link %} [*"{{ item.title }}"*]({{ item.link }}){% else %} *"{{ item.title }}"*{% endif %}{% if item.status %} ({{ item.status }}){% endif %}.
