@@ -1,4 +1,3 @@
-peer_reviewed:
   - year: 2026
     date: "2026-06"
     venue: Structural Health Monitoring
@@ -6,23 +5,11 @@ peer_reviewed:
     link: https://doi.org/10.1177/14759217261451700
     authors: Fengqiao Zhang, B. Richter, M. Fiedler, M. Herbers, G. Bolle, Yuguang Yang, and Steffen Marx
   - year: 2026
-    date: "2026-05"
-    venue: Structural Engineering International
-    title: Flexure and Shear Stop Criteria for Proof Load Testing of Reinforced Concrete Slab Bridges
-    link: https://doi.org/10.1080/10168664.2026.2639993
-    authors: Gabriela Zarate Garnica, Fengqiao Zhang, Yuguang Yang, Max Hendriks, and Eva Lantsoght
-  - year: 2026
     date: "2026"
     venue: Engineering Structures
     title: Acoustic Signals-Based Probabilistic Fault Diagnosis for Expansion Joints of Small and Medium Bridges Using Bayesian Ensemble Learning
     link: https://doi.org/10.1016/j.engstruct.2026.122379
     authors: Y. Yan, Y. Zhang, L. Zhou, Fengqiao Zhang, and H. Wang
-  - year: 2025
-    date: "2025-01"
-    venue: Intelligent Transportation Infrastructure
-    title: 'Structural Key Performance Indicators for Condition Monitoring of Concrete Bridges Using Artificial Intelligence: A Review'
-    link: https://doi.org/10.1093/iti/liaf022
-    authors: M. Berangi, Fengqiao Zhang, W. Phusakulkajorn, Alfredo Núñez, and Kumar Anupam
   - year: 2025
     date: "2025-03"
     venue: Engineering Fracture Mechanics
@@ -54,12 +41,6 @@ peer_reviewed:
     link: https://doi.org/10.1016/j.conbuildmat.2022.126984
     authors: Fengqiao Zhang, Yuguang Yang, Marius Naaktgeboren, and Max Hendriks
   - year: 2022
-    date: "2022-03"
-    venue: Infrastructures
-    title: Identification of Stop Criteria for Large-Scale Laboratory Slab Tests Using Digital Image Correlation and Acoustic Emission
-    link: https://doi.org/10.3390/infrastructures7030036
-    authors: Christian Overgaard Christensen, Fengqiao Zhang, Gabriela Zarate Garnica, Eva Lantsoght, P. Goltermann, and Jacob Wittrup Schmidt
-  - year: 2022
     date: "2022-02"
     venue: Construction and Building Materials
     title: Developing a New Acoustic Emission Source Classification Criterion for Concrete Structures Based on Signal Parameters
@@ -77,124 +58,6 @@ peer_reviewed:
     title: Evaluation of Acoustic Emission Source Localization Accuracy in Concrete Structures
     link: https://doi.org/10.1177/1475921720915625
     authors: Fengqiao Zhang, Pooria Pahlavan, and Yuguang Yang
-  - year: 2020
-    date: "2020-10"
-    venue: Sensors
-    title: Monitoring Shear Behavior of Prestressed Concrete Bridge Girders Using Acoustic Emission and Digital Image Correlation
-    link: https://doi.org/10.3390/s20195622
-    authors: Fengqiao Zhang, Gabriela Zarate Garnica, Yuguang Yang, Eva Lantsoght, and Henk Sliedrecht
-  - year: 2018
-    date: "2018-04"
-    venue: Construction and Building Materials
-    title: Interaction of Ultrasonic Waves with Partially-Closed Cracks in Concrete Structures
-    link: https://doi.org/10.1016/j.conbuildmat.2018.02.098
-    authors: Pooria Pahlavan, Fengqiao Zhang, Gerrit Blacquiere, Yuguang Yang, and Dick Hordijk
-
-conference:
-  - year: 2026
-    date: "2026-06"
-    venue: FUTUREROADS Final Conference
-    title: Bayesian Network-Based Inference of Concrete Pavement Deterioration
-    link: https://doi.org/10.17863/CAM.130988
-    authors: Fengqiao Zhang, Abir Al-Tabbaa, and M. Ambrose
-  - year: 2025
-    date: "2025-08"
-    venue: IABSE Congress Ghent 2025
-    title: Stop Criteria for Proof Load Testing Using a Traffic Light System
-    authors: Gabriela Zarate Garnica, Fengqiao Zhang, Yuguang Yang, Max Hendriks, and Eva Lantsoght
-  - year: 2025
-    date: "2025-06"
-    venue: fib Symposium 2025
-    title: 'Using Acoustic Emission Monitoring to Assess the Reliability of Existing Concrete Structures: A Case Study'
-    authors: Fengqiao Zhang
-  - year: 2024
-    date: "2024-06"
-    venue: IABMAS 2024
-    title: Scoring System for Technical Evaluation of Technologies for Remote Monitoring of Bridges
-    authors: Mogens Saberi, Kevin McPherson, Fengqiao Zhang, A. Arvidsson, S. Fjendbo, C. Van Geem, M. Kreslin, and Andrej Anžlin
-  - year: 2024
-    date: "2024-04"
-    venue: TRA 2024
-    title: INFRACOMS Appraisal Toolkit for NRAs to Assess Emerging Technologies in Bridge and Pavement Management
-    authors: Kevin McPherson, Mogens Saberi, Fengqiao Zhang, A. Arvidsson, S. Fjendbo, D. Kokot, C. Van Geem, and Ali Yeganeh
-  - year: 2024
-    date: "2024-05"
-    venue: CETRA 2024
-    title: INFRACOMS Toolbox for NRAs to Leverage Technological Evolutions for Bridge and Pavement Monitoring and Maintenance
-    authors: Robin Workman, Kevin McPherson, Mogens Saberi, Fengqiao Zhang, Yuguang Yang, A. Arvidsson, S. Fjendbo, D. Kokot, Andrej Anžlin, and M. Sloth
-  - year: 2023
-    date: "2023-10"
-    venue: SHMII-12
-    title: Design of Acoustic Emission Sensor Layout for Source Localization
-    authors: Fengqiao Zhang, Yuguang Yang, and Max Hendriks
-  - year: 2023
-    date: "2023-10"
-    venue: PIARC World Road Congress 2023
-    title: 'NRAs'' Benefits and Challenges Whilst Implementing Innovative and Future-Proof Road Asset Condition Monitoring Systems in Asset Management Decision'
-    authors: C. Van Geem, A. Wright, A. K. Arvidsson, D. Kokot, Andrej Anžlin, R. Vezočnik, Fengqiao Zhang, M. Felsgård-Hansen, and Mogens Saberi
-  - year: 2022
-    date: "2022-09"
-    venue: EWGAE 2022
-    title: Identification of Internal Damages in Reinforced Concrete Slabs Using Probability Density Field of Acoustic Emission Events
-    authors: Fengqiao Zhang, Yuguang Yang, and Max Hendriks
-  - year: 2022
-    date: "2022-07"
-    venue: IABMAS 2022
-    title: Monitoring of Repaired Concrete Floor in the Maastunnel Using Smart Aggregates
-    authors: Hao Cheng, Fengqiao Zhang, Yuguang Yang, and C. Blom
-  - year: 2021
-    date: "2021"
-    venue: IABMAS 2020
-    title: A Study on Monitoring Multi-Scale Concrete Members with Coda-Wave Interferometry Using Embedded Transducers
-    link: https://doi.org/10.1201/9780429279119-330
-    authors: C. Kevinly, Fengqiao Zhang, Yuguang Yang, Deyan Draganov, and C. Weemstra
-  - year: 2021
-    date: "2021"
-    venue: IABMAS 2020
-    title: 'Acoustic Emission-Based Crack Tracking for Existing Concrete Structures: Influence of Number of Load Cycles and Loading Speed'
-    link: https://doi.org/10.1201/9780429279119-327
-    authors: Fengqiao Zhang, Yuguang Yang, and Max Hendriks
-  - year: 2021
-    date: "2021"
-    venue: IABMAS 2020
-    title: 'Monitoring Structural Responses During Proof Load Testing of Reinforced Concrete Bridges: A Review'
-    authors: Gabriela Zarate Garnica, Fengqiao Zhang, Yuguang Yang, Cor van der Veen, Eva Lantsoght, Marius Naaktgeboren, and Sonja Fennis
-  - year: 2021
-    date: "2021-07"
-    venue: fib International PhD Symposium 2021
-    title: 'Wave-Based Indicators of Shear Failure in Reinforced Concrete Members Without Shear Reinforcement: A Review'
-    authors: Fengqiao Zhang, Yuguang Yang, and Gabriela Zarate Garnica
-  - year: 2019
-    date: "2019-06"
-    venue: Journal of Acoustic Emission
-    title: Acoustic Emission Based Crack Tracking for Concrete Structures
-    link: https://www.researchgate.net/publication/337428458
-    authors: Fengqiao Zhang and Yuguang Yang
-  - year: 2019
-    date: "2019"
-    venue: IALCCE 2018
-    title: A Comparative Study of Acoustic Emission Tomography and Digital Image Correlation Measurement on a Reinforced Concrete Beam
-    authors: Yuguang Yang, Fengqiao Zhang, Dick Hordijk, K. Hashimoto, and Tomoki Shiotani
-  - year: 2018
-    date: "2018"
-    venue: Structural Faults and Repair 2018
-    title: On-Site Inspection of a Reinforced Concrete Structure Deteriorated Due to Corrosion by Means of Acoustic Emission and Other Techniques
-    authors: Charlotte Van Steen, Fengqiao Zhang, Hussein Nasser, Yuguang Yang, and Els Verstrynge
-  - year: 2017
-    date: "2017-09"
-    venue: RILEM/COST EAC-02
-    title: Influence of Cracks on the Reliability of Acoustic Emission Monitoring of Concrete Structures
-    authors: Fengqiao Zhang, Pooria Pahlavan, Yuguang Yang, and Dick Hordijk
-
-book:
-  - year: 2022
-    date: "2022"
-    venue: PhD Dissertation, Delft University of Technology
-    title: Acoustic Emission-Based Indicators of Shear Failure of Reinforced Concrete Structures Without Shear Reinforcement
-    link: https://doi.org/10.4233/uuid:9220a0c2-f4c1-46e6-a0a9-0069e4662730
-    authors: Fengqiao Zhang
-
-other_contributions:
   - year: 2026
     date: "2026"
     venue: 4TU.ResearchData
