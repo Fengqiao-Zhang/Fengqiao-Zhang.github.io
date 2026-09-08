@@ -11,7 +11,7 @@ permalink: /service/
 <ul class="timeline">
 {% assign services = site.data.service | where: "type", "service" %}
 {% for item in services %}
-<li><span class="when">{item.date}</span><span>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span></li>
+<li><span class="when">{{item.date}}</span><span>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span></li>
 {% endfor %}
 </ul>
 </details>
