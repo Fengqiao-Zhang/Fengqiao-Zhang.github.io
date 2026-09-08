@@ -1,4 +1,4 @@
-# FengqiaoZHANG.github.io
+# Fengqiao-Zhang.github.io
 
 Source for my personal academic website, built with Jekyll and a small custom theme.
 
