@@ -3,9 +3,7 @@ layout: default
 title: "CV"
 permalink: /cv/
 ---
-
 <section class="section" markdown="1">
-
 <details class="collapsible" open>
 <summary>Awards</summary>
 <ul class="timeline">
@@ -15,27 +13,26 @@ permalink: /cv/
 {% endfor %}
 </ul>
 </details>
-
-
 </section>
 
 <section class="section" markdown="1">
 <details class="collapsible" open>
 <summary>Experience</summary>
-- **2024.9–present** Assistant Professor, Delft University of Technology, the Netherlands.
-- **2024.1-2024.8** MSCA Fellow, University of Cambridge, UK.
-- **2022.10-2023.12** Postdoctoral researcher, Delft University of Technology, the Netherlands.
+<ul class="timeline">
+<li><span class="when">2024.9–present</span><span>Assistant Professor, Delft University of Technology, the Netherlands.</span></li>
+<li><span class="when">2024.1–2024.8</span><span>MSCA Fellow, University of Cambridge, UK.</span></li>
+<li><span class="when">2022.10–2023.12</span><span>Postdoctoral researcher, Delft University of Technology, the Netherlands.</span></li>
+</ul>
 </details>
 </section>
 
 <section class="section" markdown="1">
-
-<section class="section" markdown="1">
 <details class="collapsible" open>
 <summary>Education</summary>
-- **2017.10–2022.9** PhD, Delft University of Technology, the Netherlands.
-- **2015.9-2017.9** MSc, Delft University of Technology, the Netherlands.
-- **2011.9-2015.6** BSc, Tongji University, China.
+<ul class="timeline">
+<li><span class="when">2017.10–2022.9</span><span>PhD, Delft University of Technology, the Netherlands.</span></li>
+<li><span class="when">2015.9–2017.9</span><span>MSc, Delft University of Technology, the Netherlands.</span></li>
+<li><span class="when">2011.9–2015.6</span><span>BSc, Tongji University, China.</span></li>
+</ul>
 </details>
-</section> 
-
+</section>
