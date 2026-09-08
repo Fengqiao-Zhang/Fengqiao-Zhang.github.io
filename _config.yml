@@ -1,11 +1,11 @@
-title: "Lichao Wu"
-description: "Lecturer (Assistant Professor), University of Bristol"
-url: "https://wu-lichao.github.io"
+title: "Fengqiao Zhang"
+description: "Assistant Professor, Delft University of Technology"
+url: "https://FengqiaoZHANG.github.io"
 baseurl: ""
 
 author:
-  name: "Lichao Wu"
-  tagline: "Lecturer (Assistant Professor)"
+  name: "Fengqiao Zhang"
+  tagline: "Assistant Professor"
   avatar: "/assets/images/profile.jpg"
   affiliations:
     - "University of Bristol"
