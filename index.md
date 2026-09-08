@@ -9,7 +9,7 @@ permalink: /
 
 I am an Assistant Professor at the Delft University of Technology, specializing in intelligent monitoring, structural assessment, and service-life prediction of concrete infrastructure. My research has been internationally recognized with the IABSE Best PhD Thesis Award and a prestigious Dutch Research Council (NWO) VENI grant. Before joining the faculty at TU Delft, I was a Marie Skłodowska-Curie Actions Fellow at the University of Cambridge, where I worked on integrating infrastructure monitoring with probabilistic modelling. I have also contributed to major research programmes with government and industry on the assessment of existing concrete bridges. Beyond research, I play an active international leadership role as Chair of the IABSE Task Group on uncertainties in bridge inspection and monitoring, bringing together structural engineering, sensing, and probabilistic methods.
 
-I am looking for motivated **MSc students**, **PhD students** and **postdoctoral researchers** to join my group — see [Positions](/positions/) for details.
+I am looking for motivated **MSc students**, **PhD students** and **postdoctoral researchers** to join my group.
 
 </section>
 
