@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Positions"
-permalink: /positions/
+title: "News"
+permalink: /news/
 ---
 
 <section class="section" markdown="1">
