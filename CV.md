@@ -6,7 +6,6 @@ permalink: /cv/
 
 <section class="section" markdown="1">
 
-## Awards & recognition
 <details class="collapsible" open>
 <summary>Awards</summary>
 <ul class="timeline">
@@ -17,11 +16,6 @@ permalink: /cv/
 </ul>
 </details>
 
-- **2026** NWO Talent Programme VENI.
-- **2025** IABSE Best PhD Thesis.
-- **2024** Marie Skłodowska-Curie Fellowship.
-- **2022** EWGAE Honorable Student Paper.
-- **2015-2017** TU Delft Excellent Full Scholarship.
 
 </section> -->
 
