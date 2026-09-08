@@ -7,6 +7,16 @@ permalink: /cv/
 <section class="section" markdown="1">
 
 ## Awards & recognition
+<details class="collapsible" open>
+<summary>Awards</summary>
+<ul class="timeline">
+{% assign awards = site.data.awards | where: "type", "grant" %}
+{% for item in awards %}
+<li><span class="when">{{ item.date | replace: "-", "." }}</span><span>{{ item.text | markdownify | remove: "<p>" | remove: "</p>" }}</span></li>
+{% endfor %}
+</ul>
+</details>
+
 - **2026** NWO Talent Programme VENI.
 - **2025** IABSE Best PhD Thesis.
 - **2024** Marie Skłodowska-Curie Fellowship.
