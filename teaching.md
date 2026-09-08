@@ -5,12 +5,12 @@ permalink: /teaching/
 ---
 
 <section class="section" markdown="1">
-
-{% for course in site.teaching %}
-## {{ course.title }}
-*{{ course.type }}, {{ course.venue }}, {{ course.location }} — {{ course.date | date: "%B %Y" }}*
-
-{{ course.content | markdownify }}
-{% endfor %}
-
+  <details class="collapsible" open> 
+    <summary>Teaching Activities</summary> 
+    <ul class="timeline"> 
+      {% assign teaching = site.data.teaching %} 
+      {% for item in teaching %} 
+      <li><span class="when">{{ item.date }}</span><span>{{ item.role }}, {{ item.type }} {{ item.title }}, {{ item.venue }}.</span></li> 
+      {% endfor %} </ul> 
+  </details> 
 </section>
