@@ -8,7 +8,5 @@ location: "Delft, the Netherlands"
 ---
 
 Course Contents:
-Interpreted simplified theoretical models with limit state theorems of the theory of plasticity.
-Design and assess various structural types using limit analyses, the types of structures include beam, wall, slabs, and joints. 
-Point out the fracture process of concrete and its difference between linear elastic fracture mechanics. 
-Outline the influence of the local fracture process of concrete on the global structural behaviour in terms of fatigue behaviour, shear and punching shear behaviour, etc.
+- Design and assess concrete structural types using theory of plasticity. The types of structures include beam, wall, slabs, and joints. 
+- Understand the fracture process of concrete and its difference between linear elastic fracture mechanics. 
