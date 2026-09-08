@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Research"
-permalink: /publications/
+permalink: /research/
 ---
 
 <section class="section" markdown="1">
