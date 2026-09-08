@@ -17,17 +17,18 @@ I am looking for motivated **MSc students**, **PhD students** and **postdoctoral
 
 ## What's new
 {% assign award_news = site.data.awards | sort: "date" | reverse | slice: 0, 3 %}
-{% assign pub_news = site.data.publications | sort: "date" | reverse | slice: 0, 3 %}
-{% assign serv_news = site.data.service | where: "type", "activity" | sort: "date" | reverse | slice: 0, 3 %}
+{% assign pub_news   = site.data.publications | sort: "date" | reverse | slice: 0, 3 %}
+{% assign serv_news  = site.data.service | where: "type", "activity" | sort: "date" | reverse | slice: 0, 3 %}
+
 {% assign news = award_news | concat: serv_news | concat: pub_news | sort: "date" | reverse | slice: 0, 5 %}
+
 {% for item in news %}
 {%- if item.title -%}
-- **{{ item.date | replace: "-", "." }}** {% if item.venue == "arxiv" %}[arxiv]{% else %}[**{{ item.venue }}{% if item.award %} — {{ item.award }}{% endif %}**]{% endif %}{% if item.link %} [*"{{ item.title }}"*]({{ item.link }}){% else %} *"{{ item.title }}"*{% endif %}{% if item.status %} ({{ item.status }}){% endif %}.
+* {{ item.date | replace: "-", "." }} {% if item.venue == "arxiv" %}[arxiv]{% else %}[{{ item.venue }}{% if item.award %} — {{ item.award }}{% endif %}]{% endif %}{% if item.link %} ["{{ item.title }}"]({{ item.link }}){% else %} "{{ item.title }}"{% endif %}{% if item.status %} ({{ item.status }}){% endif %}.
 {%- else -%}
-- **{{ item.date | replace: "-", "." }}** {{ item.text }}
+* {{ item.date | replace: "-", "." }} {{ item.text }}
 {%- endif %}
 {% endfor %}
-
 </section>
 
 <section class="section" markdown="1">
