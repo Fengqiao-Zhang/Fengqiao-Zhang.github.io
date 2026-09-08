@@ -29,9 +29,6 @@ nav:
   - title: "CV"
     url: "/CV/"
 
-collections:
-  teaching:
-    output: false
 
 plugins:
   - jekyll-sitemap
