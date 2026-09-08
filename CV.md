@@ -17,7 +17,7 @@ permalink: /cv/
     <summary>Experience</summary>
     <ul class="timeline"> 
       <li><span class="when">2024.9–present</span><span> Assistant Professor, Delft University of Technology, the Netherlands.</span></li> 
-      <li><span class="when">2024.1–2024.8</span><span> Marie Sklodowska-Curie Actions (MSCA) Fellow, University of Cambridge, United Kingdom.</span></li> 
+      <li><span class="when">2024.1–2024.8</span><span> MSCA Fellow, University of Cambridge, United Kingdom.</span></li> 
       <li><span class="when">2022.9–2023.12</span><span> Postdoctoral Researcher, Delft University of Technology, the Netherlands.</span></li>  
     </ul> </details> 
 </section> 
