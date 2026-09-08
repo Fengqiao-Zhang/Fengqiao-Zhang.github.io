@@ -27,7 +27,7 @@ nav:
   - title: "Service"
     url: "/service/"
   - title: "CV"
-    url: "/CV/"
+    url: "/cv/"
 
 
 plugins:
