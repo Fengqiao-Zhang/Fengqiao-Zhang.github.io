@@ -12,12 +12,14 @@ permalink: /research/
 </section>
 
 <section class="section" markdown="1">
+  
 ## Inspection and assessment of half-joint concrete bridges (2026-2030)
 - Funding source: Dutch Ministry of Transportation and Water Management
 - Many existing concrete bridges contain half-joint (dapped-end) connections, a structural detail known to be vulnerable due to poor reinforcement detailing, cracking, and corrosion. The effect of these deficiencies is hard to be captured by the current analytical and FEM models. As a result, ensuring the safety of these structures is a priority for many countries. This research will combine advanced Non-Destructive Testing (NDT) methods with structural degradation models to assess the structural safety of half-joint concrete bridges.
 </section>
 
 <section class="section" markdown="1">
+  
 ## Previous research
 Check my [Google Scholar](https://scholar.google.com/citations?hl=en&user=xBCA5c4AAAAJ&view_op=list_works&sortby=pubdate) for the full and up-to-date list of papers. Selected papers below.
 
