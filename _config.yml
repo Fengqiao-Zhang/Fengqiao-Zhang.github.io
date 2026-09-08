@@ -6,16 +6,16 @@ baseurl: ""
 author:
   name: "Fengqiao Zhang"
   tagline: "Assistant Professor"
-  avatar: "/assets/images/profile.jpg"
+  avatar: "/assets/images/Zhang_recent.JPG"
   affiliations:
-    - "University of Bristol"
-  location: "Bristol, UK"
-  email: "lichao.wu@bristol.ac.uk"
+    - "Delft University of Technology"
+  location: "Delft, the Netherlands"
+  email: "F.Zhang-5@tudelft.nl"
   links:
     - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=1cteIHQAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=xBCA5c4AAAAJ&hl=en"
     - label: "LinkedIn"
-      url: "https://www.linkedin.com/in/lichao-wu"
+      url: "https://www.linkedin.com/in/fengqiao-zhang-4b15a2139/"
 
 nav:
   - title: "Home"
