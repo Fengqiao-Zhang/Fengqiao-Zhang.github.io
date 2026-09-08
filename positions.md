@@ -8,7 +8,7 @@ permalink: /positions/
 
 I am looking for motivated MSc students, PhD students and postdoctoral researchers to join my group working on (i) multi-physical sensing and (ii) probabilistic assessment of concrete structures.
 
-Opening positions will be published here. 
+Fully funded positions will be advertised here once available.
 
 I am also happy to support researchers who are interested in applying for external funding, such as MSCA fellowship. 
 
