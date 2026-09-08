@@ -26,8 +26,8 @@ nav:
     url: "/teaching/"
   - title: "Service"
     url: "/service/"
-  - title: "Positions"
-    url: "/positions/"
+  - title: "CV"
+    url: "/CV/"
 
 collections:
   teaching:
