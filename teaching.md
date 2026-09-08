@@ -8,7 +8,7 @@ permalink: /teaching/
   <details class="collapsible" open> 
     <summary>Teaching Activities</summary> 
     <ul class="timeline"> 
-      {% assign teaching = site.teaching.teaching %} 
+      {% assign teaching = site.data.teaching %} 
       {% for item in teaching %} 
       <li><span class="when">{{ item.date }}</span><span>{{ item.role }}, {{ item.type }} {{ item.title }}, {{ item.venue }}.</span></li> 
       {% endfor %} </ul> 
