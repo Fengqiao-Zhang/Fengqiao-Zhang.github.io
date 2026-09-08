@@ -19,7 +19,6 @@ I am looking for motivated **MSc students**, **PhD students** and **postdoctoral
 
 {% assign pub_news = site.data.publications | sort: "date" | reverse | slice: 0, 5 %}
 {% assign serv_news = site.data.service | sort: "date" | reverse | slice: 0, 5 %}
-{% assign talk_news = site.data.talk | sort: "date" | reverse | slice: 0, 5 %}
 {% assign news = pub_news | concat: serv_news | sort: "date" | reverse | slice: 0, 5 %}
 {% for item in news %}
 {%- if item.title -%}
