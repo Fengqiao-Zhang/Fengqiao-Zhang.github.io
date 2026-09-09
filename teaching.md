@@ -6,7 +6,7 @@ permalink: /teaching/
 
 <section class="section" markdown="1">
   <details class="collapsible" open>
-    <summary>Courses</summary>
+    <summary>Teaching Activities</summary>
     <ul class="timeline">
       {% assign teaching = site.data.teaching %}
       {% for item in teaching %}
